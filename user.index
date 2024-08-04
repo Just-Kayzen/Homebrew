@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Supplements</name>
+		<description>User content</description>
+		<author url="">User</author>
+		<update version="0.4.4">
+			<file name="user.index" url="https://github.com/Just-Kayzen/Homebrew/blob/647d02f54d32caa97e5dda102c78252a25c26be4/user.index" />
+		</update>
+	</info>
+	<files>
+		<file name="class-buffedfighter.xml" url="https://github.com/Just-Kayzen/Homebrew/blob/647d02f54d32caa97e5dda102c78252a25c26be4/class-buffedfighter.xml" />
+
+
+	</files>
+</index>
