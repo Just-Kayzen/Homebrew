@@ -5,7 +5,7 @@
 		<description>User content</description>
 		<author url="">User</author>
 		<update version="0.4.4">
-			<file name="user.index" url="https://github.com/Just-Kayzen/Homebrew/blob/647d02f54d32caa97e5dda102c78252a25c26be4/user.index" />
+			<file name="user.index" url="https://github.com/Just-Kayzen/Homebrew/blob/5dc695805b6c35de9d6bd7a60b3c853cfd9ba4af/user.index" />
 		</update>
 	</info>
 	<files>
